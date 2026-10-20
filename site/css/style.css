@@ -1,0 +1,19 @@
+h1 {
+ font-family: 'Cherry Cream Soda', cursive;   
+ color: #838F58
+}
+p {
+    font-family: 'Emilys Candy', cursive; 
+    font-size: 1.2rem; 
+    color:  #838F58
+}
+.bio {
+    margin-top: 60px;
+} 
+.nav {
+    margin-top: 60px;
+    font-family: 'Life Savers', cursive;
+}
+body {
+    background-color: #F9D1D9;
+}
