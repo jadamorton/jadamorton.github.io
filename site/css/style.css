@@ -1,11 +1,11 @@
 h1 {
  font-family: 'Cherry Cream Soda', cursive;   
- color: #838F58
+ color: #A4565C;
 }
 p {
     font-family: 'Emilys Candy', cursive; 
     font-size: 1.2rem; 
-    color:  #838F58
+    color:  #A4565C;
 }
 .bio {
     margin-top: 60px;
@@ -15,5 +15,27 @@ p {
     font-family: 'Life Savers', cursive;
 }
 body {
-    background-color: #F9D1D9;
+    background-color: #FDE5E8;
+}
+.bi {
+    font-size: 100px;
+}
+.greenscreen {
+    top: -1100px;
+    left: 1000px;
+    position: relative;
+    width: 900px;
+    height: 250px;
+} 
+h2 {
+  font-family: "Cherry Cream Soda", cursive;
+  color: #A4565C;
+}
+ul {
+   font-family: 'Emilys Candy', cursive; 
+   color:  #A4565C;
+}
+h4 {
+  font-family: "Cherry Cream Soda", cursive;
+  color: #A4565C;
 }
